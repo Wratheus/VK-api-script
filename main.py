@@ -3,7 +3,7 @@ import csv
 
 
 def request_posts(domain: str) -> list:
-    token = "aaaa4beaaaaa4beaaaaa4bea26aaddd276aaaaaaaaa4beaca2c9dc224e26a0308da8ba7"
+    token = "token"
     version = 5.131
     offset = 0
     count = 200
